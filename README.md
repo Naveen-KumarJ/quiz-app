@@ -20,7 +20,7 @@ A simple, responsive, and interactive Quiz Application built using **HTML**, **C
 
 ## 💻 Live Demo
 
-🔗 [Click here to view the live site](https://your-username.github.io/quiz-app-screening-round)  
+🔗 [Click here to view the live site](https://quiz-ui-app.vercel.app/)  
 
 ## 📸 Screenshots
 
